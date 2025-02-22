@@ -1,1 +1,2 @@
-# Data-Scienece-and-Machine-Learning-Bootcamp---Udemy
+# Data Scienece & Machine Learning Bootcamp - Udemy
+# (in progress)
